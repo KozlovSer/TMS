@@ -19,13 +19,13 @@ def application(environ, start_response):
         b"<!DOCTYPE html>"
         b"<html>"
         b"<head>"
-        b"<title>Alpha</title>"
+        b"<title>Kozlov Sergey Projeck</title>"
         b'<meta charset="utf-8">'
         b"</head>"
         b"<body>"
-        b"<h1>Project Alpha</h1>"
+        b"<h1>Project Kozlov Sergey</h1>"
         b"<hr>"
-        b"<p>This is a template project.</p>"
+        b"<p>This is my projeck. I am Sergey Kozlov</p>"
         b"</body>"
         b"</html>"
     )
